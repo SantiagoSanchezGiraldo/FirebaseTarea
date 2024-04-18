@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "597872942897",
+    "firebase_url": "https://datos-2e612-default-rtdb.firebaseio.com",
+    "project_id": "datos-2e612",
+    "storage_bucket": "datos-2e612.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597872942897:android:c93a296541394eb6b69a10",
+        "android_client_info": {
+          "package_name": "com.firebasetarea"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClXleG1tyA03Hpk9aakQGc9k_ltZ_8SEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

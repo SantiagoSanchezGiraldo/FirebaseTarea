@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirebaseTarea</string>
+    <string name="inicio">Bienvenido a nuestra app de manejo de datos en firebase</string>
+    <string name="info">Escribe aqui la información</string>
+    <string name="name">Nombre</string>
+    <string name="add">Agregar</string>
+    <string name="db">Base de datos</string>
+</resources>
